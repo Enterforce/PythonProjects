@@ -1,5 +1,5 @@
 import pygame
-
+#adding comment
 
 WIDTH = 1024
 HEIGHT = 768
